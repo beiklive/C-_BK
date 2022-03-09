@@ -1,4 +1,4 @@
-#include "myBase64.hpp"
+#include "myBase64.h"
 
 myBase64::myBase64(/* args */):m_path(nullptr)
 {
